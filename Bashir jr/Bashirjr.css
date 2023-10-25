@@ -1,0 +1,147 @@
+*{
+	background-color:transparent;
+}
+.header{
+	display: flex;
+}
+.header{
+	flex-basis: 50%;
+}
+.logo{
+	flex-basis: 50%;
+	padding: 5px;
+	background-color:white;
+}
+.logo img{
+	width: 200px;
+	height: 150px;
+	padding-right: 15px;
+	background-color: white;
+}
+.menu a{
+	padding-right: 14px;
+	text-decoration:none;
+	font-size: 20px;
+	color:black;
+}
+.menu a:hover{
+	text-decoration: none;
+	background-color:;
+	color: greenyellow;
+
+}
+
+.sides{
+	flex-basis: 50%;
+}
+.sides{
+
+	display: flex;
+	padding: 20px;
+}
+.leftside{
+	flex-basis: 100%;
+}
+.leftside a:hover{
+	text-decoration: none;
+	color:orangered;
+}
+
+.leftside a{
+	color:greenyellow;
+	text-decoration: none;
+	margin: 0PX;
+	padding-right:5PX;
+}
+
+.rightside{
+	flex-basis: 33%;
+}
+.rightside img{
+	flex-basis: 100%;
+	background-color:whitesmoke;
+	color: whitesmoke;
+}
+.rightside a{
+	text-decoration: none;
+	padding:5px;
+	color: orangered;
+}
+.rightside p{
+	margin-right: 15px;
+}
+.rightside p{
+	display: flex;
+}
+.rightside a:hover{
+	text-decoration: none;
+	color: greenyellow;
+}
+.products{
+	display: flex;
+}
+
+.pro1{
+	flex-basis: 100%;
+}
+.pro1 a:hover{
+	color: greenyellow;
+}
+.pro1 a{
+	text-decoration: none;
+	color: orangered;
+}
+
+.pro1 img{
+	width: 250px;
+	height: 265px;
+}
+.pro2{
+	flex-basis:100%;
+}
+.pro2 img{
+	width: 380px;
+	height: 215px;
+}
+.pro2 a:hover{
+	color: greenyellow;
+}
+.pro2 a{
+	text-decoration: none;
+	color: orangered;
+}
+
+.pro3{
+	flex-basis: 100%;
+}
+.pro3 img{
+	width: 245px;
+	height: 225px;
+}
+.pro3 a:hover{
+	color: greenyellow;
+}
+.pro3 a{
+	text-decoration: none;
+	color: orangered;
+}
+
+.pro4{
+	flex-basis: 100%;
+}
+.pro4 img{
+	width: 280px;
+	height: 345;
+}
+.pro4 a:hover{
+	color: greenyellow;
+}
+.pro4 a{
+	text-decoration: none;
+	color: orangered;
+}
+.cont{
+	background-color: greenyellow;
+}
+
+
